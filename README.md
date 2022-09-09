@@ -1,1 +1,1 @@
-# freecodecamp-pojjects
+# freeCodeCamp-Projects 
